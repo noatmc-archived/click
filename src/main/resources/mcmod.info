@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "noatclick",
+      "name": "noat.click",
+      "description": "a supposed to be autoclicker",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["noat"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
